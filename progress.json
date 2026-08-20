@@ -198,5 +198,14 @@
       "Great work traversing the revision history!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787235721.767178,
+    "completed_at": 1787235723.382122,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
   }
 ]
