@@ -107,5 +107,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787209529.925828,
+    "completed_at": 1787209535.833185,
+    "comments": [
+      "The remote 'origin' is missing!"
+    ],
+    "status": "Incomplete"
   }
 ]
