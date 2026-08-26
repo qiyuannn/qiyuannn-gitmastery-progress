@@ -277,5 +277,14 @@
       "The 'visitor-line' branch should have the line 'I heard someone knocking at the door.' added to story.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787726235.205564,
+    "completed_at": 1787726238.38041,
+    "comments": [
+      "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
+    ],
+    "status": "Incomplete"
   }
 ]
