@@ -277,5 +277,14 @@
       "The 'visitor-line' branch is missing."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787726697.759915,
+    "completed_at": 1787726699.425777,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
   }
 ]
