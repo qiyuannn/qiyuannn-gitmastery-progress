@@ -268,5 +268,14 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787726575.526691,
+    "completed_at": 1787726578.891549,
+    "comments": [
+      "The 'visitor-line' branch is missing."
+    ],
+    "status": "Incomplete"
   }
 ]
